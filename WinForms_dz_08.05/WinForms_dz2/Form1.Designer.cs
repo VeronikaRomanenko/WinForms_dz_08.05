@@ -30,26 +30,25 @@
         {
             this.listView1 = new System.Windows.Forms.ListView();
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
-            this.detailToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.tileToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.largeIconToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.smallIconToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.listToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.textBox1 = new System.Windows.Forms.TextBox();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
             // listView1
             // 
-            this.listView1.Location = new System.Drawing.Point(13, 36);
+            this.listView1.Location = new System.Drawing.Point(12, 57);
             this.listView1.Name = "listView1";
-            this.listView1.Size = new System.Drawing.Size(259, 213);
+            this.listView1.Size = new System.Drawing.Size(261, 199);
             this.listView1.TabIndex = 0;
             this.listView1.UseCompatibleStateImageBehavior = false;
             // 
             // menuStrip1
             // 
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.detailToolStripMenuItem,
             this.tileToolStripMenuItem,
             this.largeIconToolStripMenuItem,
             this.smallIconToolStripMenuItem,
@@ -59,12 +58,6 @@
             this.menuStrip1.Size = new System.Drawing.Size(285, 24);
             this.menuStrip1.TabIndex = 1;
             this.menuStrip1.Text = "menuStrip1";
-            // 
-            // detailToolStripMenuItem
-            // 
-            this.detailToolStripMenuItem.Name = "detailToolStripMenuItem";
-            this.detailToolStripMenuItem.Size = new System.Drawing.Size(49, 20);
-            this.detailToolStripMenuItem.Text = "Detail";
             // 
             // tileToolStripMenuItem
             // 
@@ -90,11 +83,20 @@
             this.listToolStripMenuItem.Size = new System.Drawing.Size(37, 20);
             this.listToolStripMenuItem.Text = "List";
             // 
+            // textBox1
+            // 
+            this.textBox1.Location = new System.Drawing.Point(12, 31);
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(261, 20);
+            this.textBox1.TabIndex = 2;
+            this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(285, 261);
+            this.ClientSize = new System.Drawing.Size(285, 268);
+            this.Controls.Add(this.textBox1);
             this.Controls.Add(this.listView1);
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
@@ -111,11 +113,11 @@
 
         private System.Windows.Forms.ListView listView1;
         private System.Windows.Forms.MenuStrip menuStrip1;
-        private System.Windows.Forms.ToolStripMenuItem detailToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem tileToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem largeIconToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem smallIconToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem listToolStripMenuItem;
+        private System.Windows.Forms.TextBox textBox1;
     }
 }
 
