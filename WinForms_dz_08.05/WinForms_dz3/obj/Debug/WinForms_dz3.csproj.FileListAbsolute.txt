@@ -1,0 +1,8 @@
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_dz_08.05\WinForms_dz_08.05\WinForms_dz3\bin\Debug\WinForms_dz3.exe.config
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_dz_08.05\WinForms_dz_08.05\WinForms_dz3\bin\Debug\WinForms_dz3.exe
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_dz_08.05\WinForms_dz_08.05\WinForms_dz3\bin\Debug\WinForms_dz3.pdb
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_dz_08.05\WinForms_dz_08.05\WinForms_dz3\obj\Debug\WinForms_dz3.Form1.resources
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_dz_08.05\WinForms_dz_08.05\WinForms_dz3\obj\Debug\WinForms_dz3.Properties.Resources.resources
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_dz_08.05\WinForms_dz_08.05\WinForms_dz3\obj\Debug\WinForms_dz3.csproj.GenerateResource.Cache
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_dz_08.05\WinForms_dz_08.05\WinForms_dz3\obj\Debug\WinForms_dz3.exe
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_dz_08.05\WinForms_dz_08.05\WinForms_dz3\obj\Debug\WinForms_dz3.pdb

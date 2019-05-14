@@ -8,3 +8,12 @@ C:\Users\Вероника\Desktop\Вероника\ШАГ\WinForms\WinForms_dz_0
 C:\Users\Вероника\Desktop\Вероника\ШАГ\WinForms\WinForms_dz_08.05\WinForms_dz_08.05\WinForms_dz2\obj\Debug\WinForms_dz2.csproj.CoreCompileInputs.cache
 C:\Users\Вероника\Desktop\Вероника\ШАГ\WinForms\WinForms_dz_08.05\WinForms_dz_08.05\WinForms_dz2\obj\Debug\WinForms_dz2.exe
 C:\Users\Вероника\Desktop\Вероника\ШАГ\WinForms\WinForms_dz_08.05\WinForms_dz_08.05\WinForms_dz2\obj\Debug\WinForms_dz2.pdb
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_dz_08.05\WinForms_dz_08.05\WinForms_dz2\bin\Debug\WinForms_dz2.exe.config
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_dz_08.05\WinForms_dz_08.05\WinForms_dz2\bin\Debug\WinForms_dz2.exe
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_dz_08.05\WinForms_dz_08.05\WinForms_dz2\bin\Debug\WinForms_dz2.pdb
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_dz_08.05\WinForms_dz_08.05\WinForms_dz2\obj\Debug\WinForms_dz2.csprojResolveAssemblyReference.cache
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_dz_08.05\WinForms_dz_08.05\WinForms_dz2\obj\Debug\WinForms_dz2.Form1.resources
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_dz_08.05\WinForms_dz_08.05\WinForms_dz2\obj\Debug\WinForms_dz2.Properties.Resources.resources
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_dz_08.05\WinForms_dz_08.05\WinForms_dz2\obj\Debug\WinForms_dz2.csproj.GenerateResource.Cache
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_dz_08.05\WinForms_dz_08.05\WinForms_dz2\obj\Debug\WinForms_dz2.exe
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_dz_08.05\WinForms_dz_08.05\WinForms_dz2\obj\Debug\WinForms_dz2.pdb
