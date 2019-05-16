@@ -6,3 +6,12 @@ D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_dz_08.05
 D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_dz_08.05\WinForms_dz_08.05\WinForms_dz3\obj\Debug\WinForms_dz3.csproj.GenerateResource.Cache
 D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_dz_08.05\WinForms_dz_08.05\WinForms_dz3\obj\Debug\WinForms_dz3.exe
 D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_dz_08.05\WinForms_dz_08.05\WinForms_dz3\obj\Debug\WinForms_dz3.pdb
+C:\Users\Вероника\Desktop\Вероника\ШАГ\WinForms\WinForms_dz_08.05\WinForms_dz_08.05\WinForms_dz3\bin\Debug\WinForms_dz3.exe.config
+C:\Users\Вероника\Desktop\Вероника\ШАГ\WinForms\WinForms_dz_08.05\WinForms_dz_08.05\WinForms_dz3\bin\Debug\WinForms_dz3.exe
+C:\Users\Вероника\Desktop\Вероника\ШАГ\WinForms\WinForms_dz_08.05\WinForms_dz_08.05\WinForms_dz3\bin\Debug\WinForms_dz3.pdb
+C:\Users\Вероника\Desktop\Вероника\ШАГ\WinForms\WinForms_dz_08.05\WinForms_dz_08.05\WinForms_dz3\obj\Debug\WinForms_dz3.Form1.resources
+C:\Users\Вероника\Desktop\Вероника\ШАГ\WinForms\WinForms_dz_08.05\WinForms_dz_08.05\WinForms_dz3\obj\Debug\WinForms_dz3.Properties.Resources.resources
+C:\Users\Вероника\Desktop\Вероника\ШАГ\WinForms\WinForms_dz_08.05\WinForms_dz_08.05\WinForms_dz3\obj\Debug\WinForms_dz3.csproj.GenerateResource.cache
+C:\Users\Вероника\Desktop\Вероника\ШАГ\WinForms\WinForms_dz_08.05\WinForms_dz_08.05\WinForms_dz3\obj\Debug\WinForms_dz3.csproj.CoreCompileInputs.cache
+C:\Users\Вероника\Desktop\Вероника\ШАГ\WinForms\WinForms_dz_08.05\WinForms_dz_08.05\WinForms_dz3\obj\Debug\WinForms_dz3.exe
+C:\Users\Вероника\Desktop\Вероника\ШАГ\WinForms\WinForms_dz_08.05\WinForms_dz_08.05\WinForms_dz3\obj\Debug\WinForms_dz3.pdb
