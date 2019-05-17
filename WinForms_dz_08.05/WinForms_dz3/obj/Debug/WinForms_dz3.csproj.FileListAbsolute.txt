@@ -15,3 +15,4 @@ C:\Users\Вероника\Desktop\Вероника\ШАГ\WinForms\WinForms_dz_0
 C:\Users\Вероника\Desktop\Вероника\ШАГ\WinForms\WinForms_dz_08.05\WinForms_dz_08.05\WinForms_dz3\obj\Debug\WinForms_dz3.csproj.CoreCompileInputs.cache
 C:\Users\Вероника\Desktop\Вероника\ШАГ\WinForms\WinForms_dz_08.05\WinForms_dz_08.05\WinForms_dz3\obj\Debug\WinForms_dz3.exe
 C:\Users\Вероника\Desktop\Вероника\ШАГ\WinForms\WinForms_dz_08.05\WinForms_dz_08.05\WinForms_dz3\obj\Debug\WinForms_dz3.pdb
+C:\Users\Вероника\Desktop\Вероника\ШАГ\WinForms\WinForms_dz_08.05\WinForms_dz_08.05\WinForms_dz3\obj\Debug\WinForms_dz3.csprojAssemblyReference.cache

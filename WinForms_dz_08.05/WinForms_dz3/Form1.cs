@@ -41,7 +41,21 @@ namespace WinForms_dz3
             {
                 e.Node.Nodes.Clear();
                 listView1.Clear();
-                listView1.Items.Add(new DirectoryInfo(e.Node.FullPath).Attributes.ToString());
+                try
+                {
+                    ListViewItem item1 = new ListViewItem("Дата создания - " + new FileInfo(e.Node.FullPath).CreationTime.ToString());
+                    listView1.Items.Add(item1);
+                    ListViewItem item2 = new ListViewItem("Атрибуты - " + new FileInfo(e.Node.FullPath).Attributes.ToString());
+                    listView1.Items.Add(item2);
+                    ListViewItem item3 = new ListViewItem("Размер - " + new FileInfo(e.Node.FullPath).Length);
+                    listView1.Items.Add(item3);
+                    ListViewItem item4 = new ListViewItem("Расширение - " + new DirectoryInfo(e.Node.FullPath).Extension);
+                    listView1.Items.Add(item4);
+                }
+                catch (Exception ex)
+                {
+
+                }                
                 foreach (string item in Directory.GetDirectories(e.Node.FullPath))
                 {
                     TreeNode node = new TreeNode(new DirectoryInfo(item).Name);
@@ -49,7 +63,7 @@ namespace WinForms_dz3
                 }
                 foreach (string item in Directory.GetFiles(e.Node.FullPath))
                 {
-                    TreeNode node = new TreeNode(new DirectoryInfo(item).Name);
+                    TreeNode node = new TreeNode(new FileInfo(item).Name);
                     e.Node.Nodes.Add(node);
                 }
             }

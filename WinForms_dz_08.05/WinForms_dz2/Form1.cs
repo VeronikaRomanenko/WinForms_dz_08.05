@@ -47,46 +47,54 @@ namespace WinForms_dz2
             try
             {
                 listView1.Items.Clear();
+                e.Node.Nodes.Clear();
                 large_gellary.Images.Clear();
                 small_gellary.Images.Clear();
                 foreach (string item in Directory.GetDirectories(e.Node.FullPath))
                 {
-                    TreeNode driveNode = new TreeNode(item);
-                    treeView1.Nodes.Add(driveNode);
+                    TreeNode driveNode = new TreeNode(new DirectoryInfo(item).Name);
+                    e.Node.Nodes.Add(driveNode);
                 }
                 foreach (string item in Directory.GetFiles(e.Node.FullPath))
                 {
                     ListViewItem driveNode = new ListViewItem(new DirectoryInfo(item).Name);
-                    large_gellary.Images.Add(Image.FromFile(item));
-                    small_gellary.Images.Add(Image.FromFile(item));
-                    driveNode.ImageIndex = large_gellary.Images.Count - 1;
+                    try
+                    {
+                        large_gellary.Images.Add(Image.FromFile(item));
+                        small_gellary.Images.Add(Image.FromFile(item));
+                        driveNode.ImageIndex = large_gellary.Images.Count - 1;
+                    }
+                    catch (Exception ex)
+                    {
+
+                    }
                     listView1.Items.Add(driveNode);
                 }
             }
             catch (Exception ex)
             {
 
-            }            
+            }
         }
 
         private void tileToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            listView1.View = View.Tile;
         }
 
         private void largeIconToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            listView1.View = View.LargeIcon;
         }
 
         private void smallIconToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            listView1.View = View.SmallIcon;
         }
 
         private void listToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            listView1.View = View.List;
         }
     }
 }
